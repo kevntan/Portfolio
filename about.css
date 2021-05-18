@@ -1,0 +1,16 @@
+.about-section {
+    position: relative;
+    background-color: #0e1212;
+    color: white;
+    width: 100%;
+    top: 800px;
+    margin-bottom: -400px;
+}
+
+.inner-width {
+    width: 100%;
+    margin: auto;
+    padding: 0 180px;
+    max-width: 1200px;
+    overflow: hidden;
+}
